@@ -1,6 +1,16 @@
 <resources>
+    <!--Titles-->
     <string name="app_name">RentTrack</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+    <!--Icons-->
+    <string name="icon_heart">&#xf004;</string>
+
+    <!--Hints-->
+    <string name="number_hint">Rent Amount</string>
+
+    <!--Buttons-->
+    <string name="dashboard_button">Reload</string>
 </resources>
